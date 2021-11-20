@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>768</width>
+    <height>552</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Automated Data Collecting System</string>
+  </property>
+  <widget class="QWidget" name="centralwidget"/>
+  <widget class="QStatusBar" name="statusbar"/>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>768</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuFile">
+    <property name="title">
+     <string>File</string>
+    </property>
+    <addaction name="actionNew_Mission"/>
+    <addaction name="actionView_Mission"/>
+   </widget>
+   <addaction name="menuFile"/>
+  </widget>
+  <action name="actionopen">
+   <property name="text">
+    <string>Mession</string>
+   </property>
+  </action>
+  <action name="actionclose">
+   <property name="text">
+    <string>close</string>
+   </property>
+  </action>
+  <action name="actionNew_Mission">
+   <property name="text">
+    <string>New Mission</string>
+   </property>
+  </action>
+  <action name="actionconnect">
+   <property name="text">
+    <string>Connect</string>
+   </property>
+  </action>
+  <action name="actionDisconnect">
+   <property name="text">
+    <string>Disconnect</string>
+   </property>
+  </action>
+  <action name="actionView_Mission">
+   <property name="text">
+    <string>View Mission</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
