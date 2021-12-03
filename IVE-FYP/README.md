@@ -6,7 +6,7 @@ IVE(LWL), Software Engineering, Final Year Project
 
 * **Siu Chi Wang** - *Streaming, IoT, UAV, README* - [wing199901](https://github.com/wing199901)
 * **Wong Ming Yuen** - *Initial work, GUI, Charts & Graphs* - [Ethan7102](https://github.com/Ethan7102)
-* **Kwok Tsz Lung** - *???* - [BirdyKwok](https://github.com/BirdyKwok)
+* **Kwok Tsz Lung** - IOT, streaming - [BirdyKwok](https://github.com/BirdyKwok)
 * **Chau Yat Sum** - *???* - [NathMon](https://github.com/NathMon)
 
 ## Getting Started
